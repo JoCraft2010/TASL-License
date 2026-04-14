@@ -28,7 +28,13 @@ Your right to distribute the Work in Rendered Form is contingent upon the follow
 
   - Static Linking: You may only link statically if the specific portion of the build process involving this Work is made available to the end-user, allowing them to modify and swap the Work’s components within your Rendered Form.
 
-- C. Network Access (SaaS): Providing access to the Work over a network constitutes "distribution." You must make the Source Form of any modifications to the Work available to users interacting with it over said network.
+- C. Network Access (SaaS): Providing access to the Work over a network constitutes "distribution."
+
+  - i. Source Availability: You must make the Source Form of any modifications to the Work available to users interacting with it over said network.
+
+  - ii. Satisfaction of Swapping Rights: In a Network Access context, the requirement for "Component Swapping" defined in Section 3.B is satisfied if the provider makes the Source Form of the Work (including modifications) available, along with sufficient documentation or build scripts to allow a user to reproduce and run that specific component in an independent environment. Providing the means to swap components within the provider's own infrastructure is not required.
+
+  - iii. Limitation of Scope: This requirement applies solely to the Work and its Derivative Works, and does not extend to the proprietary hosting platform or unrelated modules of the Host Application.
 
 ## 4. Modern Derivative Works & AI Protection
 
@@ -68,7 +74,7 @@ Neither the name of the Author nor the names of its contributors may be used to 
 
 - B. The Forker’s Path: In the event of a license change by the original Author, contributors and downstream users have two options:
 
-  - Stay with TASL: You may continue to use, modify, and distribute the version of the Work you received under the TASL v1.0. This "Snapshot" remains protected by TASL terms, but you will not be entitled to future updates or features released by the Author under a new, incompatible license.
+  - Stay with TASL: You may continue to use, modify, and distribute the version of the Work you received under the TASL Draft Version. This "Snapshot" remains protected by TASL terms, but you will not be entitled to future updates or features released by the Author under a new, incompatible license.
 
   - Follow the Migration: You may choose to adopt the Author's new license to remain compatible with the main project and receive ongoing updates. By doing so, you agree to abide by the terms of the new license for all subsequent versions.
 
