@@ -56,7 +56,19 @@ Failure to comply with these terms terminates your rights under this License. Ho
 
 ## 7. Patent Non-Assertion
 
-If you institute patent litigation against the Author alleging that the Work constitutes patent infringement, then any patent licenses granted to you under this License shall terminate as of the date such litigation is filed.
+- A. Perpetual Patent Grant: Subject to the terms of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work. This grant applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted.
+
+- B. Defensive Termination: This patent grant is conditioned upon your continued non-assertion of patent claims against the Author or any other Contributor. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+- C. Persistence of Grant & Contributor Protection: In accordance with Section 10 (Author’s Prerogative / License Migration), the patent grant provided under this version of the License is tied to the specific Snapshot of the Work you received.
+
+  - i. Snapshot Security: In accordance with Section 10, the patent grants provided under this version of the License are tied to the specific version of the Work. If the Author relicenses future versions, the patent grants for the TASL-licensed version remain in effect for all users and contributors in perpetuity.
+
+  - ii. Contributor Protection: Any Contributor who provided code to a TASL-governed version of the Work remains fully protected by the non-assertion clauses of this Section, regardless of whether they choose to adopt or contribute to future versions released under different licenses. Their past contributions grant them a "Life-Long Pass" against patent litigation regarding this Work, provided they do not initiate litigation themselves.
+
+  - iii. Migration Effect: If You migrate to a new license under Section 10.B, the patent terms of the new license shall supersede this section only for the subsequent versions. Your rights and protections regarding the original TASL Snapshot remain governed by this Section.
+
+- D. Sub-Licensing: This grant extends to your right to create Derivative Works, provided those works remain compliant with the Transparency Requirement (Section 3) and AI Protection (Section 4). Any attempt to enforce patents against users who are simply exercising their rights under this License constitutes a material breach and results in the automatic and immediate termination of all licenses (both copyright and patent) granted to You under this License.
 
 ## 8. No Endorsement
 
