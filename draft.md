@@ -42,7 +42,7 @@ The definition of a "Derivative Work" includes modern computational and generati
 
 - A. Structural Rewrites: A work is considered a Derivative if it replicates the Core Logic or architectural patterns of this Work, regardless of the target programming language, file format, or whether the translation was performed by a human or an automated system.
 
-- B. AI Training & Attribution: You may use this Work as training data for machine learning models only if the resulting model’s documentation, metadata, or system-level attribution explicitly cites this Project as a training source. Failure to provide transparency regarding the inclusion of this Work upon reasonable request constitutes a breach of this License.
+- B. AI Training & Attribution: Permission is granted to use the Work for the purpose of training machine learning models. This permission is conditioned upon the inclusion of the Work's name and Author in the model's documentation, metadata, or a publicly accessible "Transparency Report." Failure to provide transparency regarding the inclusion of this Work upon reasonable request constitutes a breach of this License.
 
 - C. Fair Usage Exception: Attribution is waived for extracts that constitute less than 5% of the Work's total content or 50 lines of code (whichever is greater), provided such usage is for interoperability, bug reporting, or academic citation, and does not reconstruct the functional core of the Work.
 
