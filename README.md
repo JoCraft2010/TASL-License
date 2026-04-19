@@ -65,3 +65,15 @@ Suggestions and legal refinements are greatly appreciated! If you have ideas to 
 ## Why TASL?
 
 Traditional licenses like the GPL were written before the rise of Cloud Computing (SaaS) and Large Language Models (AI). TASL ensures that if your logic is "borrowed" by a machine or hidden inside a proprietary container, the original creator still receives the credit and transparency they deserve.
+
+## License Compatibility
+
+TASL is more demanding than a standard MIT license. If you're mixing this code with other projects, you need to be aware of how these requirements (especially the AI and Translation clauses) interact with other licenses.
+
+| License Type | Adding TASL code into that project | Using that project’s code in a TASL project | Notes |
+| :--- | :--- | :--- | :--- |
+| **Permissive** (MIT, Apache, BSD) | ✅ YES* | ✅ YES | *Permissive projects must still include build scripts and proper attribution. |
+| **Weak Copyleft** (LGPL, MPL) | ✅ YES* | ✅ YES | *The TASL-governed files must remain under TASL. |
+| **Strong & Network Copyleft** (GPLv2/v3, AGPL) | ❌ NO | ❌ NO | GPL forbids "additional requirements" like TASL’s AI attribution clause. |
+| **Proprietary (Local/Binary)** | ✅ YES* | ❌ NO | *Allowed via dynamic linking or by providing a swapping mechanism. |
+| **SaaS / Network Service** | ✅ YES* | ❌ NO | *Allowed if you open-source your modifications to the Work. |
