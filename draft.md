@@ -70,7 +70,7 @@ Failure to comply with these terms terminates your rights under this License. Ho
 
 - C. Persistence of Grant & Contributor Protection: In accordance with Section 10 (Author’s Prerogative / License Migration), the patent grant provided under this version of the License is tied to the specific Snapshot of the Work you received.
 
-  - i. Snapshot Security: In accordance with Section 10, the patent grants provided under this version of the License are tied to the specific version of the Work. If the Author relicenses future versions, the patent grants for the TASL-licensed version remain in effect for all users and contributors in perpetuity.
+  - i. Snapshot Security: The patent grants provided under this version of the License are tied to the specific version of the Work. If a Contributor or the Author relicenses future versions, the patent grants for the TASL-licensed version remain in effect for all users and contributors in perpetuity.
 
   - ii. Contributor Protection: Any Contributor who provided code to a TASL-governed version of the Work remains fully protected by the non-assertion clauses of this Section, regardless of whether they choose to adopt or contribute to future versions released under different licenses. Their past contributions grant them a "Life-Long Pass" against patent litigation regarding this Work, provided they do not initiate litigation themselves.
 
