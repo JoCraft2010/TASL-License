@@ -52,7 +52,7 @@ Attribution must be visible to the end-user in any Graphical User Interface (e.g
 
 ## 6. Termination & Cure
 
-Failure to comply with these terms terminates your rights under this License. However, your rights are reinstated if you "cure" (fix) the violation within 30 days of becoming aware of it.
+Failure to comply with these terms terminates your rights under this License. However, your rights are reinstated if you "cure" (fix) the violation within 30 days of receiving notice.
 
 ## 7. Patent Non-Assertion
 
