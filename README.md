@@ -36,7 +36,7 @@ If you use TASL in your project, feel free to paste this helpful summary into yo
 
 ```markdown
 ## License
-This project is licensed under the **Transparent & Attributed Source License (TASL) v1.0**.
+This project is licensed under the [**Transparent & Attributed Source License (TASL) v1.0**](https://github.com/tasl-foundation/TASL-License).
 
 TASL is a modern copyleft license that requires:
 1. **Build Transparency:** Users must be able to see how the project is built and swap this library's version.
