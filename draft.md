@@ -48,7 +48,15 @@ The definition of a "Derivative Work" includes modern computational and generati
 
 ## 5. Integrity of Attribution
 
-Attribution must be visible to the end-user in any Graphical User Interface (e.g., an "About" or "Legal" menu) reachable within a reasonable number of interactions.
+- A. GUI Display: If the Software, or any derivative work thereof, includes a Graphical User Interface (GUI), the required attribution notices must be visibly displayed to the end-user within a standard "About," "Credits," or "Legal" menu that is accessible within three (3) or fewer user interactions from the primary screen.
+
+- B. Non-GUI Applications: If the Software is distributed or utilized without a GUI (e.g., as a command-line tool, backend service, or network-accessible API), attribution must be prominently provided to the direct consumer or operator of that interface.
+
+  - i. For command-line tools, this requires an attribution command (e.g., --version, --help, or --license output).
+
+  - ii. For network APIs or backend services, this requires prominent inclusion within the developer documentation, API reference, or root API endpoint responses.
+
+- C. Exemption for Indirect Network Use: For the avoidance of doubt, if the Software is executed entirely on a backend server, third-party client applications (such as mobile apps or web frontends) that merely interact with that server via a network connection are exempt from displaying user-facing GUI attribution, provided the backend service itself complies with Section 5.B.
 
 ## 6. Termination & Cure
 
