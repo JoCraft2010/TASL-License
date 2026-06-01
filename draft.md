@@ -100,6 +100,12 @@ Neither the name of the Author nor the names of its contributors may be used to 
 
 - C. Derivative Work Persistence: This right to change the license of the "Original Project" belongs solely to the original Author. Any independent Fork or Derivative Work created while the code was under TASL must remain under TASL (or a newer official TASL version) unless the original Author grants explicit permission to do otherwise.
 
-## 11. Disclaimer of Warranty & Liability
+## 11. Severability and Failure of Condition
+
+- A. General Severability: Except as provided in Section 11.B, if any provision of this License is held to be invalid, illegal, or unenforceable under applicable law, that provision shall be severed, and the remaining provisions of this License shall remain in full force and effect.
+
+- B. Failure of Essential Condition: The Transparency Requirements (Section 3), AI Protection & Attribution (Section 4), and Integrity of Attribution (Section 5) are core conditions of the rights granted under this License. If any court or administrative agency holds that any part of Sections 3, 4, or 5 cannot be legally enforced against a Licensee in a given jurisdiction, or if a Licensee triggers local laws to avoid compliance with them, the entire grant of rights provided under Section 2 shall automatically terminate immediately and retroactively for that Licensee without the possibility of cure. Continued use of the Work in that jurisdiction without satisfying these conditions shall constitute unauthorized copyright infringement.
+
+## 12. Disclaimer of Warranty & Liability
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
