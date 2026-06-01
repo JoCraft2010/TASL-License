@@ -84,9 +84,9 @@ Neither the name of the Author nor the names of its contributors may be used to 
 
 ## 9. Future Versions and Relicensing
 
-- A. Official Versions: The Author may publish revised or new versions of the Transparent & Attributed Source License (TASL) from time to time. Such new versions will be similar in spirit to the present version but may address new legal or technical issues. Once a new version is published, you may choose to follow the terms and conditions either of the version you received the Work under or of any later official version published by the original Author.
+- A. Official Versions: The [TASL Foundation](https://github.com/tasl-foundation) may publish revised or new versions of the [Transparent & Attributed Source License (TASL)](https://github.com/tasl-foundation/TASL-License) from time to time. Such new versions will be similar in spirit to the present version but may address new legal or technical issues. Once a new version is published, you may choose to follow the terms and conditions either of the version you received the Work under or of any later official version published by the original Author.
 
-- B. Exploitation Guard: A "version" of TASL is only considered official if it is released by the original Author or a designated successor clearly identified in the Project's primary repository metadata. "Unofficial" versions or forks of the license text itself do not grant the right to change the terms of existing Works.
+- B. Exploitation Guard: A "version" of TASL is only considered official if it is released by the [TASL Foundation](https://github.com/tasl-foundation) or a designated successor clearly identified in the TASL Foundation's website. "Unofficial" versions or forks of the license text itself do not grant the right to change the terms of existing Works.
 
 ## 10. Author’s Prerogative & License Migration
 
